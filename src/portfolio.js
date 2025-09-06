@@ -12,7 +12,7 @@ const about = {
     "https://drive.google.com/file/d/16OWC3TT0vouA5Yn2Wm-gJTiyyiaBu_WP/view?usp=sharing",
   social: {
     linkedin: "https://www.linkedin.com/in/jamunashri-shanmugasundaram/",
-    github: "https://github.com/jamunashri",
+    github: "https://github.com/Jamunashri123",
   },
 };
 
